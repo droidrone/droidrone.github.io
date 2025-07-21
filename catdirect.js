@@ -1,1 +1,1 @@
-link.href = 'https://invaderelevant.com/eg2ygq9ijj?key=a91849039e377cb1e2542961381eff5';
+link.setAttribute('href', 'https://invaderelevant.com/eg2ygq9ijj?key=a91849039e377cb1e2542961381eff5';
